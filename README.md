@@ -10,7 +10,7 @@
 
 # Welcome
 
-I am a postdoctoral researcher in biostatistics and medical data science at the ETH AI center in Zurich. My research interests lie at the intersection of precision medicine and treatment optimization, particularly in the context of cancer, Inflammatory Bowel Disease, and sepsis. If you have any questions that I can help with, please feel free to reach out via email at diane.duroux[at]uliege.be.
+I am a postdoctoral researcher in biostatistics and medical data science at the ETH AI center in Zurich. My research interests lie at the intersection of precision medicine and treatment optimization, particularly in the context of cancer, Inflammatory Bowel Disease, and sepsis. If you have any questions that I can help with, please feel free to reach out via email at dduroux[at]ethz.ch.
 
 ## About me
 
