@@ -19,7 +19,7 @@ I am a postdoctoral researcher in biostatistics and medical data science at the 
 
 <img src="linkedin_logo.png" alt="intro" style="width:20px;height:auto;" > [Linkedin](https://www.linkedin.com/in/diane-duroux/)
 
-<a href="DianeDuroux.pdf" download>Download CV</a>
+<img src="book_logo2.PNG" alt="intro" style="width:21px;height:auto;" > <a href="DianeDuroux.pdf" download>Download CV</a>
 
 
 <!--| :memo:  [Google scholar]([./another-page.html](https://scholar.google.com/citations?user=iqYwecUAAAAJ&hl=fr))   |-->
