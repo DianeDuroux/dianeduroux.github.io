@@ -12,8 +12,10 @@ I am a postdoctoral researcher in biostatistics and medical data science at the 
 
 ## About me
 
-| :memo:  [Google scholar]([./another-page.html](https://scholar.google.com/citations?user=iqYwecUAAAAJ&hl=fr))   |
-|-----------------------------------------|
+[Google scholar](https://scholar.google.com/citations?user=iqYwecUAAAAJ&hl=fr)
+
+<!--| :memo:  [Google scholar]([./another-page.html](https://scholar.google.com/citations?user=iqYwecUAAAAJ&hl=fr))   |-->
+<!--|-----------------------------------------|-->
 
 > This is a blockquote following a header.
 >
