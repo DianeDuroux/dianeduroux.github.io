@@ -14,6 +14,8 @@ I am a postdoctoral researcher in biostatistics and medical data science at the 
 
 [Google scholar](https://scholar.google.com/citations?user=iqYwecUAAAAJ&hl=fr)
 
+<a href="Diane_Duroux_CV.pdf" download>Download CV</a>
+
 <!--| :memo:  [Google scholar]([./another-page.html](https://scholar.google.com/citations?user=iqYwecUAAAAJ&hl=fr))   |-->
 <!--|-----------------------------------------|-->
 
