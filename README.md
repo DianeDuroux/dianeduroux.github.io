@@ -6,7 +6,7 @@
 
 <!--There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.-->
 
-<img src="DD.jpg" alt="intro" > 
+<img src="DD.jpg" alt="intro" style="width:200px;height:auto;" > 
 
 # Welcome
 
@@ -16,7 +16,10 @@ I am a postdoctoral researcher in biostatistics and medical data science at the 
 
 [Google scholar](https://scholar.google.com/citations?user=iqYwecUAAAAJ&hl=fr)
 
+[Linkedin](https://www.linkedin.com/in/diane-duroux/)
+
 <a href="Diane_Duroux_CV.pdf" download>Download CV</a>
+
 
 <!--| :memo:  [Google scholar]([./another-page.html](https://scholar.google.com/citations?user=iqYwecUAAAAJ&hl=fr))   |-->
 <!--|-----------------------------------------|-->
