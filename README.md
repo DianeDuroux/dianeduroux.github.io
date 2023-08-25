@@ -1,16 +1,19 @@
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+<!--Text can be **bold**, _italic_, or ~~strikethrough~~.-->
 
-[Link to another page](./another-page.html).
+<!--[Link to another page](./another-page.html).-->
 
-There should be whitespace between paragraphs.
+<!--There should be whitespace between paragraphs.-->
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+<!--There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.-->
 
-# Header 1
+# Welcome
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+I am a postdoctoral researcher in biostatistics and medical data science at the ETH AI center in Zurich. My research interests lie at the intersection of precision medicine and treatment optimization, particularly in the context of cancer, Inflammatory Bowel Disease, and sepsis. If you have any questions that I can help with, please feel free to reach out via email.
 
-## Header 2
+## About me
+
+| :memo:  [Google scholar]([./another-page.html](https://scholar.google.com/citations?user=iqYwecUAAAAJ&hl=fr))   |
+|-----------------------------------------|
 
 > This is a blockquote following a header.
 >
