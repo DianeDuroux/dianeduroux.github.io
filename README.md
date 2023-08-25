@@ -6,7 +6,7 @@
 
 <!--There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.-->
 
-<img src="DD.jpg" alt="intro" style="width:200px;height:auto;" > 
+<!--<img src="DD.jpg" alt="intro" style="width:200px;height:auto;" >-->
 
 # Welcome
 
