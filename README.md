@@ -6,7 +6,7 @@
 
 <!--There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.-->
 
-<img src="test.png" alt="intro" style="width:100px;height:100px;border-radius: 50%;"> 
+<img src="DD.jpg" alt="intro" > 
 
 # Welcome
 
